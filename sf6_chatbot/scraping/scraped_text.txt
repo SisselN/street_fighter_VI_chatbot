@@ -1,0 +1,139 @@
+Street Fighter 6Developer(s)CapcomPublisher(s)CapcomProducers(s)Midori YuasaSeriesStreet FighterEngineRE Engine[1]Platform(s)PlayStation 5PlayStation 4Microsoft WindowsXbox Series X/SNintendo Switch 2Arcade (Taito)Release datePlayStation 4/5, Xbox Series X/S & Microsoft Windows (Steam)June 2, 2023ArcadeDecember 14, 2023Nintendo Switch 2June 5, 2025Genre(s)FightingMode(s)Single-playermultiplayerInput methods8-wayjoystick8buttons
+
+Nintendo Switch 2Arcade (Taito)
+
+Street Fighter 6(ストリートファイター6,Sutorīto Faitā 6?), (alternatively spelledStreet Fighter VI) is the seventh main installment in theStreet Fighterseries. It was announced on February 21, 2022, and released on June 2, 2023,[2]for PlayStation 5, PlayStation 4, Xbox Series X/S, and PC via Steam. A "Type Arcade" version was confirmed during The Game Awards 2022, and was released on December 14 in Japan only.[3]A version for Nintendo Switch 2 containing the first two seasons of DLC characters dubbedStreet Fighter 6: Years 1-2 Fighters Editionwill also be released on June 5, 2025, the same day as the console's release date as a launch title.
+
+Street Fighter 6features three overarching game modes: Fighting Ground, World Tour, and Battle Hub. Fighting Ground contains local and online versus battles as well as training and arcade modes, all featuring similar 2D fighting game play to the previous games in the series, in which two fighters use a variety of attacks and special abilities to knock out their opponent.World Touris a single-player story mode with RPG-like mechanics, featuring a customizable player avatar exploring 3D environments with action-adventure game play. Battle Hub acts as an online lobby mode, using customizable player avatars from the World Tour mode with features such as taking part in Avatar Battles, using the DJ Booth, playing classic games in the Game Center, etc. Other features in the mode include Giant Attack events, and V-Rivals, with more features set to be revealed in the future.
+
+The main fighting game play ofStreet Fighter 6is based around the Drive Gauge, a system designed to encourage player creativity. The gauge can be used for five different techniques, requiring players to choose which to prioritize. Most of the Drive Gauge's mechanics are based on previously existing mechanics from previousStreet Fightermainline games, such as Parry, Focus Attack, EX move, etc. The game features three control types: the "classic" control scheme has a six-button layout that functions similarly to previous entries, the "modern" control scheme assigns special moves to a single button combined with a directional input, and the "dynamic" control scheme, which is only allowed in certain parts in the Fighting Ground mode, but is not allowed in online battles, uses a single button auto attack layout, based on what range is performed.
+
+The use of multiple super combos returns from theStreet Fighter Alphasub-series, also counting the Ultra Combo W variant fromUltra Street Fighter IV. However, each character only has three super combos based on their respective level gauge. For example, Ryu's Shinku Hadoken, Shin Hashogeki and Shin Shoryuken can only be used at Level 1, 2 and 3 respectively.
+
+A real-time commentary system is a brand new feature inStreet Fighter 6, where English and/or Japanese play-by-play and color commentators watch the action in real-time, giving it a more tournament-style feel. It features eight different commentators, four of each of the two commentary types: play-by-play commentary and color color commentary. Aru, Jeremy "Vicious" Lopez, Steve "TastySteve" Scott, and Kosuke Hiraiwa are the four play-by-play commentators, while Demon Kakka, Thea Trindad / Zelina Vega, James "jchensor" Chen, and Hikaru Takahashi are the four color commentators.
+
+The Drive Gauge plays a large role inStreet Fighter 6.
+
+The major new feature ofStreet Fighter 6's game play revolves around the "Drive" system -- a bar below the characters' vitality meters that enable the use of several abilities. Each fighter starts with 6 Drive bars, which deplete when using Drive abilities, blocking hits, or being hit by a Punish Counter, Drive Impact, or Supers. The Drive gauge replenishes over time after a brief moment out of combat, or when hitting opponents (regardless of blocking).
+
+When the Drive gauge is empty, the fighter is left in a "Burnout" state, which will change their stance to an exhausted version and cause them to glow grey. While in Burnout, the Drive Gauge will restore over time or when successfully landing attacks. However, the fighter's defensive abilities are severely impeded:
+
+Multiple mechanics have been adjusted or removed entirely. TheStun Gaugehas been removed, and opponents can only get stunned if wall crushed while in the burnout state. Grey damage no longer occurs when a fighter takes hits while blocking, and only occurs when the fighter is hit by a Drive Reversal, or armors an attack with a Drive Impact. The Drive Gauge replaces the EX gauge for identical Overdrive moves, and is also used for all defensive abilities that previously required theV-Gauge(V-Reversal,V-Shift); additionally, some characters gainV-Triggerlike modes with their Level 2 supers. Thus, both the EX and V gauges have been removed. In addition, the characters have their own character-related icons on the UI for their unique special abilities (eg. Ryu's enhanced Hado power after Denjin Charge, Jamie's Drink Level, or Kimberly's stocked Shuriken Bombs).
+
+A new type ofCounter Hithas been implemented, known asPunishCounters, which are achieved after hitting an attack during its recovery frames. Punish Counters deplete part of the opponent's Drive Gauge, gain an extra four frames of advantage on hit, and certain attacks gain other properties similar to Crush Counters. Throws also gain a massive 70% damage bonus.
+
+Characters inStreet Fighter 6have three super moves each[4], once again being calledSuper Arts. Super Gauges are kept as stocks, up to a maximum of three. Supers only require as many gauges as the levels state (eg. Level 2 requires 2 full super gauges), and any remaining gauges are kept. Super Art Cancels vary depending on their level. This marks the return of multiple supers during gameplay since it was first utilized in theStreet Fighter Alphaseries, and being the third game to do so since the multiple Super Combo usage mechanic was last utilized inUltra Street Fighter IV' "Ultra ComboW" variant.
+
+A simplified "Modern" control scheme, somewhat similar toMarvel vs. Capcom 3, is available as an optional alternative to the standard six-button scheme (known as "Classic" in-game) to ease players into the game. Punch and kick attack strengths are removed and players play with three generic "Attack" buttons of varying strength and a Special Move button to perform special attacks, which are performed by using the Special Move button in conjunction with a directional input. Techniques such as Drive Parries and Drive Impact are performed with a single button press and a combo assist button allows players to easily string attacks together when held down. However, the input mechanics of the specials and supers being in simplified buttons dated back in Ryu and Chun-Li's guest appearance in Lionsgate'sPower Rangers: Battle for the Grid. The game also has another new simplified 3-button control scheme called "Dynamic" as a new local-only control option which is meant to "help button mashers excel", that is limited to certain modes in Fighting Ground and cannot be used in online matches. By pressing one of the three Auto-Attack buttons, the character will automatically perform attacks and combos based on the position relevant to the opponent. Taunts also return for characters to use inStreet Fighter 6with up to three taunts for each character, as well as alternate character colors and costumes.
+
+The face off section ofStreet Fighter 6.
+
+The VS screen cutscene for this game (which can be skipped) shows unique information for each character chosen before the battles as they enter the stage, and all characters have two versions of their intro walk animations that are used depending on if the character is chosen by Player 1 or Player 2. It also introduces the "Game Face" feature to it, which allows a character to have one of four different facial emotions and expressions by pressing the controller's directional buttons, first dated back in Bandai Namco'sSoulcalibur IIuntilSoulcalibur III. The pre-fight intro cutscenes before the first round of the match are shortened down to 2 seconds, compared to the previous games;Street Fighter IVandStreet Fighter V. All characters have a unique victory animation for them on the Result Screen after a match, like in previous games, and also have victory animations after a round based on how much health they have lost: 0% (Perfect KO), ~80%, Normal and Critical Health (25%). In Fighting Ground, players are able to choose from using the Stage Battle theme of the chosen stage, the theme song for Player 1 or Player 2's chosen character, or randomly selecting from the three options for the match. With the May 22, 2024 update, theCustom Character BGMsetting was added to the Audio tab in Options, meaning that when this setting is enabled, the player can choose to use any Music Player tracks that they have unlocked in-game to use for any character for the match, as the player is able to set up a maximum number of 30 tracks for each character that will be chosen at random at the start of each match.Character Damagehas the characters portray battle damage on their bodies, faces, and clothing during the course of battle.
+
+The game features an in-game commentary feature, a series first,[5]as well as online rollback netcode and cross-play.Street Fighter 6also runs on Capcom'sRE Engine[6], the realistic game engine that was previously used in their recent games such asResident Evil VII,Devil May Cry 5, andMonster Hunter: Rise.
+
+In the Fighting Ground, all of the previous game modes found inStreet Fighter Vcan be accessible, including Arcade, Versus, and Training. It also features a new battle mode called Extreme Battle, which features battles with unusual rules and gimmicks added in. In addition, the theme songs for this new mode, "Down & Out", "Back & Forth", "Smash & Grab", "Rules & Regulations", "Normal Match Rules", and "Heaven & Hell" will play in-game for battles in Extreme Battle instead of the stage's normal Stage Battle BGM.
+
+The Nintendo Switch 2 version (also available in theYears 1-2 Fighters Edition, that includes all DLC characters in Year 1 and 2) has exclusive features to that version including Special Matches, which has "Calorie Contest"; where in this mode, the players will need to burn as many calories as they can, and "Gyro Battle"; which uses the Joy-Con 2 controllers' gyro controls. Wireless Matches have both local One-on-One and new Avatar Matches. There is also Amiibo support in where you can save or load outfit, color, and button settings for amiibo-supported characters with just a touch of an amiibo at the Character Select screen and receive items for linking one figure. Amiibo figures and a starter set of 22 cards will be compatible upon release. If you scan an amiibo with Fighter Settings set, you can follow or friend users from their CFN page. Special amiibo figure items include exclusive music (such as "Not On The Sidelines - 8bit Version"), device wallpapers and camera frames (shared between all figures), with device wallpapers and camera frames inspired by each character's amiibo card art.
+
+Below is a list of Amiibo figures and cards that are supported in the Nintendo Switch 2 version ofStreet Fighter 6.
+
+Street Fighter 6takes place after the events of theStreet Fighter IIIgames.[7]From a chronological order,Street Fighter 6is the latest title in the official timeline.
+
+At the start of the World Tour mode, theplayer's created avatarenters Buckler Security, where Luke will give the player tutorial lessons as part of the "Basic Training Course". The player then engages in combat with a fighter namedBosch, who attempted to cheap shot the player beforehand. After Bosch is defeated, Luke instructs the player to leave Buckler Security and write their own story. On their adventure, they will travel the world in pursuit of true strength, while meeting up with several fighters along the way. Some of these fighters have very familiar faces and will take the player under their wing. These 'masters' will teach the avatar their personal styles to further progress them towards their goals.
+
+Ryu meeting Luke before their rival fight in his Arcade Mode storyline, "The Path".
+
+In the Arcade Mode of the Fighting Ground, each character fights a special rival, whom they encounter in their last match. Before the match, the player is presented with a short, illustrated introductory cut scene. These cut scenes help elaborate on the relations and lore between the characters in the game's roster. In Guile's Arcade Story Mode, the first introduction scene appears after the match against his pupil Luke.
+
+If the Custom Character BGM setting is turned on, then one of any of the Music Player tracks that the player had set up for the player's rival character will be used instead of their default theme song in Arcade mode.
+
+Udon Entertainmentand Capcom teamed up to produce a limited prequel comic series entitled,Street Fighter 6: Days of the Eclipse, which directly ties into the events of the game.
+
+The Character Select screen in the Fighting Ground mode ofStreet Fighter 6.
+
+The game launched with 18 playable fighters, including six new fighters. The first season of downloadable content featured four fighters, while the second season followed that up with an additional four fighters; bringing the total to 26. Each character comes with their own theme song (though Akuma and M. Bison have an extra remix of their theme songs for their SiRN forms in the Battle Hub's Giant Attack events), but if the Custom Character BGM setting is turned on, then one of any of the Music Player tracks that the player had set up for that character will be chosen at random at the start of each match in a random order, instead of their default theme song. Fighters who are making their playable debut inStreet Fighter 6are inbold, while third-party guest characters arebold italicized.
+
+There are also a bevy of characters who make cameos and/or non-playable appearances. They are also listed below.
+
+During a showcase for the game, the first downloadable fighters were announced, despite being leaked alongside the initial cast. The first year includes three veteran fighters and a new challenger. Like the previous title, the first DLC Season/Year 1 were released just over a month after the game's launch.
+
+Names of new fighters are inbold, while names of guest characters arebold italicized.
+
+The second year includes two returning veteran fighters, alongside two guest characters from SNK'sFatal Furyseries, who have also featured in theKing of Fightersseries.
+
+Chun-Li & Ryu at Genbu Temple.
+
+Fights take place in a plethora of different locations. In Fighting Ground, each stage has its own background theme. For online matches, Player 1 and Player 2 are both allowed to select their preferred stage for the same match.
+
+Most of the characters in the game benefit from having a designated home-stage. In Arcade Mode, those fighters who don't have a home-stage are assigned a stage that's relevant to their nationality (e.g., Honda fights at Genbu Temple, Japan). The exceptions are Juri and Rashid, whose home nations of South Korea and Saudi Arabia aren't represented via an official stage, and they are therefore fought in England (King Street) and Nayshall (Old Town Market), respectively.
+
+Metro City, just one of the many locations that players are able to explore in World Tour.
+
+In World Tour, there are numbers of locations in each country for the player's Avatar to explore and visit. Each country has its own set of masters that the player will meet in them. Currently, onlyMetro CityandNayshallare fully able to be explored as large maps. A new version of Aokigahara (Mai's stage inFatal Fury 2) is available in the "One Fateful Day" extra scenario accompanying Mai's arrival. Unlike other World Tour stage dioramas, Aokigahara is slightly bigger, featuring an outdoor area and a cavernous temple to explore.
+
+The Gallery mode inStreet Fighter 6is where players can play their obtained arcade games, re-watch cut scenes from the story, see illustrations and listen to music.
+
+In the Battle Hub, more than 15+ classic Capcom arcade games are playable, using the same emulation engine used in theCapcom Arcade Stadiumseries. They can also be played in the Gallery when they are acquired.
+
+One of several master-focused connection cut scenes with the player's avatar in World Tour. This one with Jamie is titled "A Stiff Introduction".
+
+InStreet Fighter 6, there are both in-game rendered cut scenes (like in the cinematic story,A Shadow FallsinSFV) and illustrated cut scenes (similar to the ones inStreet Fighter V's Character Story mode) that advance the plot in World Tour, Fighting Ground, and Battle Hub. When a cut scene has been watched for the first time, it is unlocked to be re-watched again in the Gallery.
+
+Throughout the game, there are several special illustrations to collect. These can be unlocked in the Gallery by meeting certain conditions in World Tour, and completing Arcade Mode several times with a character in the Fighting Ground.
+
+The Music Player menu inStreet Fighter 6. The chosen track playing in this example is Cammy's theme song, "OverTrip".
+
+This is where you can listen to the game's background music. The track list of music not only features the music fromStreet Fighter 6itself, but also music from previous games in the series, as well as music from other Capcom games and music tracks obtained from collaboration events. Certain unlocked tracks in the Music Player can be listened to while in World Tour and Fighting Ground (including Training Mode), and more music can be unlocked as the player progresses in-game.
+
+So far, music sets from these games are featured inStreet Fighter 6:
+
+Another new feature inStreet Fighter 6are monthly Fighting Passes, which feature themed rewards such as photo frames, emotes, challenger screen effects, avatar gear, titles, music, chat stickers, and a classic Game Center game. The theme will change each month, and all Fighting Passes will have both free and premium rewards.
+
+The aforementioned prequel comic book series,Street Fighter 6: Days of the Eclipse, was announced on November 9, 2022. It was released on May 5, 2023, digitally, and was released in bookstores the following day. Another comic titledStreet Fighter 6: Evolution Special, was given to people who had attended the EVO 2023 event.
+
+Ryu, Guile and Chun-Li's unlockable Exosuit sets in the Dino Survival mode ofExoprimal.
+
+In June 2023, it was announced at Summer Game Fest that the game would collaborate with Capcom's online TPS survival-shooting gameExoprimalas part of the latter's second season on October 18, 2023. The collaboration includes unlockable Exosuit skins based on Ryu for Deadeye, Guile for Zephyr, and Chun-Li for Vigilant, as well as emotes based on the Hadouken, Somersault Kick, and Lightning Leg Barrage attacks, and decals, stamps, and charms that referenceStreet Fighter 6and past games in the franchise. Guile and Chun-Li's suit set items are both paid DLC, while Ryu's suit set of items must be unlocked in-game by completing the Dino Survival mode several times as a reward during the collaboration.
+
+Yor and Chun-Li in the animated SF6 xSpy × Family Code: Whitecollab teaser.
+
+On July 1, 2023, it was announced that the game wouldcollaboratewith the manga and anime seriesSpy x Familyto promote the latter's then-upcoming movie,Spy x Family Code: White.[8]A short special animation by WIT Studio was released on December 4, 2023,[9]featuring Yor and Chun-Li having a showdown inStreet Fighter 6's Suval'hal Arena. The video also announced collaborated in-game items, which became available on January 9, 2024, with the official site and a trailer explaining the details.[10][11]
+
+On August 6, 2023, an collaboration with theTeenage Mutant Ninja Turtleswas confirmed during EVO 2023. The collaboration includes gear, emotes, Titles, stamps, in-game device wallpapers, camera frames in Photo Mode, and the ability to turn the World Tour and Battle Hub custom Avatar into one of the turtles.[12]The collaboration also includes a cover of the 1987 TV series' theme song done by Capcom's in-house band CAP-JAMS and sung by Luke's English voice actor Aleks Le.[13]
+
+A Japan-only Cap-Kuji prize collaboration with Nijisanji had promotional artwork of six VTubers cosplaying as Luke, Ryu, Chun-Li, Ken, E. Honda, and JP. A second collaboration on October 1st, 2024 had more Vtubers cosplaying as Cammy, Juri, Zangief and Blanka.
+
+A collaboration with anime and manga seriesBaki the Grappleris also planned to appear in the future to celebrate the series' 30th Anniversary, with Avatar recipes being released in September which show how to make some of the characters from the series. In addition, special artwork of Ryu and Baki was created for this collab.[14]On December 2023, Capcom revealed a bundle based on the collaboration to use in the Battle Hub and World Tour; included inside is 12 stickers to use in messages and photos as well as six frames pulled from manga panels, and titles for the player profile. This bundle's availability ceased on January 8, 2024.[15]
+
+On November 12, 2024, it was announced that the game would collaborate with Bungie's first-person shooting gameDestiny 2as part of the release of the latter's "Episode: Revenant" Act II content for it'sThe Final Shapeexpansion on November 19. The collaboration includes emotes, finishers and other items, including ghost shell designs themed after Ryu, Chun-Li and Cammy.[16]
+
+On November 25, 2024, Sega announced a Japan-only SegaPrize collaboration with the game that will have exclusive items such as plushes of Ryu and Chun-Li, rubber mats with promotional artwork from the game, and premium figures of Ryu and Chun-Li as UFO Catcher prizes in the spring of 2025.[17][18][19]
+
+On January 6, 2025, the game collaborated with Sega's arcade rhythm gameChunithm Luminous Plus(known asChunithm Versein Japan) as an event was held from January 6, 2025 to February 5, 2025 in Japan. A map themed on the game will be open, and to coincide with the event, the main theme song ofStreet Fighter 6itself, "Not On The Sidelines - Street Fighter 6 Main Theme" (sourced from the game's Original Soundtrack album) will be added to the licensed song list ofChunithm Luminous Plus, as this song is put into the "Variety" category. By progressing through the collab's event maps, players can get character nameplates of Luke and Ryu (which can be unlocked by increasing their avatar character's rank). A Chunithm Quest will also take place at the same time.
+
+Ryu, Cammy and Chun-Li in theOverwatch 2xSF6collab teaser.
+
+During EVO Japan 2025, a collaboration with Blizzard's shooting gameOverwatch 2was announced on May 9, 2025, which will begin on the 21st of the month. It will have collaboration skins for it's heroes based on eight of the characters' classic outfits inStreet Fighter 6.
+
+Ryu's early development design shown in the game's first teaser trailer.
+
+The Exosuit version of Ryu in theStreet Fighter 6collaboration teaser forExoprimal.
+
+Li-Fen appears in World Tour Mode as one of the many non-playable cameos in-game.
+
+In World Tour, sometimes the masters are seen in the background watching their protégé fight. For this example, Ryu appears at the Genbu Temple stage.
+
+The Results screen for the Fighting Ground mode inStreet Fighter 6, showing the memories of the outcome of the finished match.
+
+The loading icon forStreet Fighter 6, seen only while the game is loading it's in-game content.
+
+Ryu's 10th color for Outfit 1, which was inplemented for him in the June 2024 update.
+
+Before the first round of the match begins, the song title of the background track playing appears below on-screen. In this case, it's Ryu's theme song, "Viator".
+
+An example of a Lucky Emblem in the VS Screen's cinematic ofStreet Fighter 6.
+
+This footage from a Pre-Alpha version of the World Tour mode shows what the mode would have been like with Ryu as the protagonist.
+
+Luke and Jamie in the SF6 Year 2 animated reveal trailer.
