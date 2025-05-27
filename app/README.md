@@ -6,14 +6,14 @@ Detta är ett examinerande projekt i data science vid EC Utbildning AB.
 
 ## Modell och teknik
 
-Chatboten använder Retrieval-Augmented Generation (RAG) för att hämta relevanta textstycken från en kunskapsbas och generera svar med hjälp av en språkmodell.  
-Texten delas upp i mindre delar ("chunks") med olika chunking-metoder, och den bästa metoden utvärderas med hjälp av `evaluate_chunking.py`.
+Chatboten använder Retrieval-Augmented Generation (RAG) för att hämta relevanta textstycken från en kunskapsbas och generera svar med hjälp av Googles språkmodell Gemini.  
+Texten delas upp i mindre delar ("chunks") med olika metoder som utvärderas så att den bästa metoden med de bästa parametrarna kan användas i applikationen.
 
 ## Installation
 
 1. Klona projektet:
    ```
-   git clone 
+   git clone https://github.com/SisselN/street_fighter_VI_chatbot.git
    ```
 2. Installera beroenden:
    ```
@@ -24,23 +24,24 @@ Texten delas upp i mindre delar ("chunks") med olika chunking-metoder, och den b
 
 Kör:
 ```
-python app/app.py
+uvicorn backend.model_server:app --reload
+python -m app.app
 ```
-och öppna webbläsaren på [http://127.0.0.1:7860](http://127.0.0.1:7860)
 
 ## Filbeskrivning
 
 - **app/app.py** – Huvudfilen för Gradio-gränssnittet.
-- **chunking/** – Innehåller kod för att dela upp texten i chunks.
+- **model_server.py** - Backend-servern (FastAPI) som tar emot frågor från frontend, hämtar relevanta textstycken med RAG och genererar svar med hjälp av Gemini-modellen.
+- **chunking/** – Innehåller olika metoder för att dela upp texten i "chunks".
 - **rag_pipeline.py** – Kod för RAG-modellen.
-- **evaluate_chunking.py** – Script för att utvärdera olika chunking-metoder.
-- **best_chunks.json** - Innehåller de optimala chunkingmetoden och-parametrarna.
+- **evaluate_chunking.py** – Script för att utvärdera de olika chunking-metoderna.
+- **best_chunks.json** - Innehåller den optimala chunkingmetoden med de optimala parametrarna.
 - **scraped_text.txt** – Textdata hämtad från Street Fighter-wikin.
 
 ## Hur hade chatboten kunnat användas i verkligheten?
 
-En sådan chatbot kan användas för att:
-- Ge snabb och korrekt information om spelet.
+En sådan typ av chatbot kan användas för att:
+- Ge snabb och korrekt information om det den har kunskap om.
 - Automatisera kundsupport eller FAQ.
 - Hjälpa användare att hitta relevant information i stora textmängder.
 
