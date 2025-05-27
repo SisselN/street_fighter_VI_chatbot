@@ -25,6 +25,8 @@ Texten delas upp i mindre delar ("chunks") med olika metoder som utvärderas så
 Kör:
 ```
 uvicorn backend.model_server:app --reload
+```
+```
 python -m app.app
 ```
 
